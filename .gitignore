@@ -5,6 +5,6 @@ build
 
 .idea
 
-HELP.md
-
 gradlew*
+
+HELP.md
