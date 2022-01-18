@@ -1,1 +1,3 @@
-# sarafan
+# Sarafan
+
+Spring Boot REST Application
